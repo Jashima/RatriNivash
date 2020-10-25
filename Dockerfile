@@ -1,2 +1,2 @@
-FROM jashima/ratrinivash
+FROM Jashima/ratrinivash
 ADD ./testIQ /var/www/html/testIQ
